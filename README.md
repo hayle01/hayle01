@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hayle01" alt="hayle01" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript and Ai engineering**
+- 🌱 I’m currently learning **Ai engineering**
 
 - 💬 Ask me about **react, nodejs, express**
 
